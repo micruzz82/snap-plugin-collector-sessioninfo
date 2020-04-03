@@ -1,4 +1,4 @@
-package: github.com/IrekRomaniuk/snap-plugin-collector-sessioninfo
+package: github.com/micruzz82/snap-plugin-collector-sessioninfo
 import:
 - package: github.com/micruzz82/snap
   subpackages:
