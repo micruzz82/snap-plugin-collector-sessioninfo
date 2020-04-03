@@ -19,7 +19,7 @@ package main
 import (
 	"os"
 
-	"github.com/IrekRomaniuk/snap-plugin-collector-sessioninfo/sessioninfo"
+	"github.com/micruzz82/snap-plugin-collector-sessioninfo/sessioninfo"
 	"github.com/micruzz82/snap/control/plugin"
 )
 
