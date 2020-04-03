@@ -1,7 +1,7 @@
 hash: 5ef7f116b37041867dda9c1918f2785138d4e8fa900412b630961bea77fb69ea
 updated: 2017-03-30T10:24:16.809877-04:00
 imports:
-- name: github.com/intelsdi-x/snap
+- name: github.com/micruzz82/snap
   version: c98bf6658761dc330431c118dee1a069deb90bab
   subpackages:
   - control/plugin
