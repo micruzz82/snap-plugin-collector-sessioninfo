@@ -20,7 +20,7 @@ import (
 	"os"
 
 	"github.com/IrekRomaniuk/snap-plugin-collector-sessioninfo/sessioninfo"
-	"github.com/intelsdi-x/snap/control/plugin"
+	"github.com/micruzz82/snap/control/plugin"
 )
 
 /*const (
